@@ -1,0 +1,7 @@
+G:\GW\Fall 2020 Part 2\Programming\Assignment 2\Assignment 2\bin\Debug\Object - Classes 2.exe.config
+G:\GW\Fall 2020 Part 2\Programming\Assignment 2\Assignment 2\bin\Debug\Object - Classes 2.exe
+G:\GW\Fall 2020 Part 2\Programming\Assignment 2\Assignment 2\bin\Debug\Object - Classes 2.pdb
+G:\GW\Fall 2020 Part 2\Programming\Assignment 2\Assignment 2\obj\Debug\Assignment 2.csprojAssemblyReference.cache
+G:\GW\Fall 2020 Part 2\Programming\Assignment 2\Assignment 2\obj\Debug\Assignment 2.csproj.CoreCompileInputs.cache
+G:\GW\Fall 2020 Part 2\Programming\Assignment 2\Assignment 2\obj\Debug\Object - Classes 2.exe
+G:\GW\Fall 2020 Part 2\Programming\Assignment 2\Assignment 2\obj\Debug\Object - Classes 2.pdb
